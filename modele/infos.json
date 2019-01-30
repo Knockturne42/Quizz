@@ -1,0 +1,6 @@
+{
+    "hostname":"localhost",
+    "dbname":"quizz",
+    "dbuser":"test00",
+    "dbpassword":"test00"
+}
